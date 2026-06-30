@@ -6,3 +6,4 @@ dist
 .env
 _workspace
 _workspace_prev
+.vercel
