@@ -1,5 +1,4 @@
 import { useCallback, useRef, useState } from 'react'
-import logoUrl from './assets/bsdlogo.png'
 import { GooeyText } from './components/GooeyText.jsx'
 import { verifyRepo } from './engine/index.js'
 import { TRENDING_SITES } from './data/sites.js'
@@ -79,7 +78,10 @@ export default function App() {
   return (
     <div className="app">
       <header className="app__header">
-        <img className="brand-logo" src={logoUrl} alt="RepoShield 로고" />
+        <a className="brand-logo" href="/" aria-label="AICLab 홈">
+          <span className="brand-logo__mark" aria-hidden="true">AI</span>
+          <span className="brand-logo__word">AICLab</span>
+        </a>
         <div className="brand-text">
           <h1>Repo<b>Shield</b></h1>
           <p>git clone 전에 저장소 안전성을 3초 안에 판단</p>

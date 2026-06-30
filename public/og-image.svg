@@ -1,0 +1,40 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AICLab RepoShield</title>
+  <desc id="desc">GitHub repository security verification dashboard before git clone.</desc>
+  <rect width="1200" height="630" fill="#0A0E14"/>
+  <rect x="1" y="1" width="1198" height="628" rx="34" stroke="#1F2733" stroke-width="2"/>
+  <circle cx="996" cy="16" r="322" fill="#5B8CFF" fill-opacity=".16"/>
+  <circle cx="140" cy="12" r="248" fill="#2ECC71" fill-opacity=".12"/>
+  <path d="M76 452C216 376 337 548 474 468C608 390 717 282 855 346C956 393 1027 343 1124 256" stroke="#5B8CFF" stroke-opacity=".24" stroke-width="3"/>
+  <g transform="translate(76 76)">
+    <rect width="124" height="124" rx="28" fill="#0F1724" stroke="#7AA2FF" stroke-opacity=".42" stroke-width="2"/>
+    <rect x="18" y="18" width="88" height="88" rx="20" fill="url(#markGradient)" fill-opacity=".24"/>
+    <text x="62" y="74" text-anchor="middle" fill="#DFF6FF" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="800">AI</text>
+  </g>
+  <text x="224" y="130" fill="#E7EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="54" font-weight="800">AICLab</text>
+  <text x="224" y="177" fill="#7AA2FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700">RepoShield</text>
+  <text x="76" y="308" fill="#F5F8FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="72" font-weight="800">clone 전에 검증하세요</text>
+  <text x="80" y="374" fill="#9AA7B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="500">API 키 탈취, 악성 설치 스크립트, 원격 실행 위험을 정적 분석합니다.</text>
+  <g transform="translate(80 462)">
+    <rect width="188" height="56" rx="16" fill="#121821" stroke="#1F2733"/>
+    <circle cx="32" cy="28" r="10" fill="#2ECC71"/>
+    <text x="56" y="36" fill="#E7EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700">안전</text>
+  </g>
+  <g transform="translate(292 462)">
+    <rect width="188" height="56" rx="16" fill="#121821" stroke="#1F2733"/>
+    <circle cx="32" cy="28" r="10" fill="#F1C40F"/>
+    <text x="56" y="36" fill="#E7EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700">주의</text>
+  </g>
+  <g transform="translate(504 462)">
+    <rect width="188" height="56" rx="16" fill="#121821" stroke="#1F2733"/>
+    <circle cx="32" cy="28" r="10" fill="#FF4757"/>
+    <text x="56" y="36" fill="#E7EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700">위험</text>
+  </g>
+  <text x="80" y="570" fill="#67748A" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="20">m-bsd-repo-shield.vercel.app</text>
+  <defs>
+    <linearGradient id="markGradient" x1="16" y1="18" x2="110" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2ECC71"/>
+      <stop offset="1" stop-color="#5B8CFF"/>
+    </linearGradient>
+  </defs>
+</svg>
